@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "32284e8172f93c24e22a",
+    "revision": "6c35183f96cb9685f474",
     "url": "/static/css/main.aee0a126.chunk.css"
   },
   {
-    "revision": "32284e8172f93c24e22a",
-    "url": "/static/js/main.32284e81.chunk.js"
+    "revision": "6c35183f96cb9685f474",
+    "url": "/static/js/main.6c35183f.chunk.js"
   },
   {
     "revision": "e35c6b7d06037cd15427",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/media/ai-ml.f6220ea8.png"
   },
   {
-    "revision": "f3ad2c78e062a6a591135a34c38d2c55",
-    "url": "/static/media/Karun-Ram-Resume.f3ad2c78.pdf"
+    "revision": "b0bd6e227f6f0ad77fc708d525d3354f",
+    "url": "/static/media/Karun-Ram-Resume.b0bd6e22.pdf"
   },
   {
     "revision": "fcdbc1298d7f265a4e9dc85302a4d259",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/fun.fda2c40f.png"
   },
   {
-    "revision": "6391d0f4947a51b0b36d151b53d47ded",
+    "revision": "442cfff5f8216351b5cbf0bb37e1f343",
     "url": "/index.html"
   }
 ];
